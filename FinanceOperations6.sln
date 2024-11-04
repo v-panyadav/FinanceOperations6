@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "FinanceOperations6", "FinanceOperations6\FinanceOperations6.rnrproj", "{75F2B24A-22F6-42D3-9DEA-7E820F09FBD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F2B24A-22F6-42D3-9DEA-7E820F09FBD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F2B24A-22F6-42D3-9DEA-7E820F09FBD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03688D4E-6C2E-4039-8B17-16B2FD84DF6B}
+	EndGlobalSection
+EndGlobal
